@@ -35,3 +35,24 @@ a:visited
 {
     color:grey;
 }
+
+#J
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(220, 20,60, 0.9);
+    border: 10px solid hotpink;
+    border-radius: 15px;
+    text-align: center;
+}
+
+img
+{
+    align-self: center;
+    border: 1px solid black;
+    border-radius: 10px 0px 10px 0;
+}
+
+
