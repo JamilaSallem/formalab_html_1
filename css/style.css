@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
 *{/*Toutes les balises auront la couleur rouge*/
-    color:red;
+    color:red;    
 }
 .parableu{/*Toute balise de la classe parableu aura la couleur bleue*/
     color:blue;
@@ -26,6 +28,7 @@ p.vert/*Tout paragraphe de la classe vert aura la couleur verte*/
 a
 {
     color: red;text-decoration: none;
+    font-family:'Pacifico', cursive
 }
 a:hover
 {
