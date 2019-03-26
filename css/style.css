@@ -1,20 +1,28 @@
-*{
+*{/*Toutes les balises auront la couleur rouge*/
     color:red;
 }
 
-.parableu{
+.parableu{/*Toute balise de la classe parableu aura la couleur bleue*/
     color:blue;
 }
 
-#parared{
+#parared{/*Toute balise ayant l'id parared aura la couleur  rouge*/
     color:red;
 }
 
-.bleu
+.bleu/*Toute balise de la classe bleu aura la couleur bleue*/
 {
 color:blue;
 }
-p.vert
+p.vert/*Tout paragraphe de la classe vert aura la couleur verte*/
 {
     color:green;
+}
+
+.vt{
+    color: green;
+}
+
+.bord{
+    border:1px solid green
 }
