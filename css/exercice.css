@@ -1,0 +1,23 @@
+*{
+    height: 100%;
+    text-align: center;
+}
+#Sect1
+{
+    height: 33%;
+    background-color: #FF6600;
+    
+}
+#Sect2
+{
+    height: 34%;
+    padding-top: 6%;
+}
+
+#Sect3
+{
+    height: 33%;
+    background-color: #4c4c4c;
+}
+
+

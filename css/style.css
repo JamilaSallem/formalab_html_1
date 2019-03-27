@@ -57,22 +57,3 @@ img
     border: 1px solid black;
     border-radius: 10px 0px 10px 0;
 }
-
-#Sect1
-{
-    height:215px;
-    background-color: #FF6600
-}
-#Sect2
-{
-    height: 215px;
-    text-align: center;
-}
-
-#Sect3
-{
-    height: 215px;
-    background-color: #4c4c4c
-}
-
-
